@@ -1,0 +1,112 @@
+[
+    {
+        "id": 10000,
+        "title": "AI对话平台",
+        "priority": 0,
+        "menu": [
+            {
+                "id": 10100,
+                "name": "文心一言",
+                "url": "https://yiyan.baidu.com/",
+                "priority": 0
+            },
+            {
+                "id": 10200,
+                "name": "通义千问",
+                "url": "https://tongyi.aliyun.com/",
+                "priority": 0
+            },
+            {
+                "id": 10201,
+                "name": "讯飞星火",
+                "url": "https://xinghuo.xfyun.cn/desk/",
+                "priority": 0
+            },
+            {
+                "id": 10202,
+                "name": "360智脑",
+                "url": "https://ai.360.cn/",
+                "priority": 0
+            },
+            {
+                "id": 10203,
+                "name": "昆仑天工",
+                "url": "https://tiangong.kunlun.com/",
+                "priority": 0
+            },
+            {
+                "separator": true
+            },
+            {
+                "id": 10310,
+                "name": "ChatGPT(官方版)",
+                "url": "https://chat.openai.com/chat",
+                "priority": 0
+            },
+            {
+                "id": 10311,
+                "name": "GPTAI(直连/推荐)",
+                "url": "https://gptai.cloud/",
+                "priority": 0
+            },
+            {
+                "id": 10312,
+                "name": "FASTGPT(直连/推荐)",
+                "url": "https://chat5.fastgpt.me/",
+                "priority": 0
+            },
+            {
+                "id": 10313,
+                "name": "Chat Chat(限额/梯子)",
+                "url": "https://chat.okis.dev/zh-CN?mode=chat",
+                "priority": 0
+            },
+            {
+                "id": 10314,
+                "name": "ChatBot(推荐/梯子)",
+                "url": "https://chatbot.theb.ai/",
+                "priority": 0
+            },
+            {
+                "separator": true
+            },
+            {
+                "id": 10400,
+                "name": "Poe",
+                "url": "https://poe.com/",
+                "priority": 0
+            },
+            {
+                "id": 10500,
+                "name": "BARD",
+                "url": "https://bard.google.com/",
+                "priority": 0
+            },
+            {
+                "id": 10600,
+                "name": "Bing",
+                "url": "https://www.bing.com/new",
+                "priority": 0
+            }
+        ]
+    },
+    {
+        "id": 20000,
+        "title": "AI图像平台",
+        "priority": 0,
+        "menu": [
+            {
+                "id": 20100,
+                "name": "文心一格",
+                "url": "https://yige.baidu.com",
+                "priority": 0
+            },
+            {
+                "id": 20200,
+                "name": "Bing Image Creator",
+                "url": "https://www.bing.com/create",
+                "priority": 0
+            }
+        ]
+    }
+]
